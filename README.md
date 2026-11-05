@@ -2,8 +2,8 @@
 
 > 在安卓手机上，把 **TXT / EPUB 电子书**用系统已经装好的 **TTS 引擎**念出来，并一键按章节**导出成 WAV 有声书**。
 
-[![下载 APK](https://img.shields.io/badge/下载-APK%20v4.3-brightgreen?logo=android)](https://raw.githubusercontent.com/zjh1934/TSDC/main/ListenBook-v4.3.apk)
-[![下载源码](https://img.shields.io/badge/下载-源码%20zip-blue)](https://github.com/zjh1934/TSDC/archive/refs/heads/main.zip)
+[![下载 APK](https://img.shields.io/badge/下载-APK%20v4.3-brightgreen?logo=android)](https://raw.githubusercontent.com/zjh1934/ting-shu-dao-chu/main/ListenBook-v4.3.apk)
+[![下载源码](https://img.shields.io/badge/下载-源码%20zip-blue)](https://github.com/zjh1934/ting-shu-dao-chu/archive/refs/heads/main.zip)
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Language](https://img.shields.io/badge/language-Java-orange)
@@ -20,7 +20,7 @@
 
 ### 方法一：直接下载安装包（最简单）
 
-👉 **[点这里下载 ListenBook-v4.3.apk](https://raw.githubusercontent.com/zjh1934/TSDC/main/ListenBook-v4.3.apk)**
+👉 **[点这里下载 ListenBook-v4.3.apk](https://raw.githubusercontent.com/zjh1934/ting-shu-dao-chu/main/ListenBook-v4.3.apk)**
 
 下载之后：
 
@@ -33,9 +33,9 @@
 
 ### 方法二：想要源代码
 
-👉 **[点这里下载全部源代码（zip）](https://github.com/zjh1934/TSDC/archive/refs/heads/main.zip)**
+👉 **[点这里下载全部源代码（zip）](https://github.com/zjh1934/ting-shu-dao-chu/archive/refs/heads/main.zip)**
 
-或者用命令：`git clone https://github.com/zjh1934/TSDC.git`
+或者用命令：`git clone https://github.com/zjh1934/ting-shu-dao-chu.git`
 
 ---
 
